@@ -1,5 +1,5 @@
 # Cyber_Security_Breach_Dashboard
-This dashboard provides a comprehensive analysis of cyber security data breaches across an organization, detailing breach counts, stolen data, affected employees, and more. It includes metrics by branch, country, breach type, and department, along with a geographical map and top reporters. The dashboard is built using Microsoft BI and covers historical data with filters for year, month, branch, and department.
+This dashboard provides a comprehensive analysis of cyber security data breaches across an organization (Obtained from open source), detailing breach counts, stolen data, affected employees, and more. It includes metrics by branch, country, breach type, and department, along with a geographical map and top reporters. The dashboard is built using Microsoft BI and covers historical data with filters for year, month, branch, and department.
 
 ## KPIs:
 - Total Breaches: 1,055
