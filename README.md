@@ -52,3 +52,8 @@ This dashboard provides a comprehensive analysis of cyber security data breaches
 - Recent years show a jump in breaches. 
 ##### 8. Top Breach Reporters 
 - Rajesh Rana, Carlos Sultan, Choby Khanna.
+
+### Dashboard sample
+
+![image](https://github.com/user-attachments/assets/752bd250-24c1-4be8-8a1f-317b1a6073c3)
+
