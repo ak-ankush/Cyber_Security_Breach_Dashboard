@@ -57,3 +57,6 @@ This dashboard provides a comprehensive analysis of cyber security data breaches
 
 ![image](https://github.com/user-attachments/assets/752bd250-24c1-4be8-8a1f-317b1a6073c3)
 
+![image](https://github.com/user-attachments/assets/da3b925b-a00b-4f1a-af1f-9ec03f243e8d)
+
+
